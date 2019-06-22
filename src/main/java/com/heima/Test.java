@@ -10,6 +10,8 @@ public class Test {
 		int b = 20;
         System.out.println("chenxs");
 		System.out.println(b);
+		System.out.println("fffffffffff");
+		System.out.println("44444444444");
 
 
     }
